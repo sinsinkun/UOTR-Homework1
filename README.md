@@ -6,4 +6,4 @@ This is a demonstration website that has been refactored to meet accessibility s
 http://sinsinkun.github.io/UTOR-Homework1
 
 ## Screenshot of website
-[Screenshot of website](./images/screenshot.png)
+![Screenshot of website](./images/screenshot.png)
